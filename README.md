@@ -3,6 +3,10 @@
 **Your personal product manager powered by GPT.**  
 Helping you go from *“I have an idea”* to *“I’m building it”* — without overwhelm, without jargon.
 
+## ⚡️ Try it Live
+[Etlaq Advisor GPT](https://chatgpt.com/g/g-67e5facb43a88191a8e78b5c712c4540-mstshr-tlq-lmntjt-lrqmy)
+
+
 ## 💡 What It Does
 
 Etlaq Advisor is your AI Product Mentor that helps you refine your app idea into a focused, sellable MVP. You don’t need to know tech or business lingo — just bring your idea and let Etlaq Advisor guide you step by step.
